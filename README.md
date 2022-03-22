@@ -2,6 +2,8 @@
 
 Client, Server, and Database
 
+<img src='frontend/src/components/images/bestbank.JPG' width="800">
+
 ## Description/Motivation: 
 
 It’s an amazing journey so far! This application provides a great overview of 3 tier end to end architecture for a new developer. It includes secutiry aspects such as authentication and authorization. The data flows from client to web server to mongodb and vise versa. It provides a glimpse of how to create secured websites which stores users and their account information. Great exposure on how React components captures user events and gets the required data from database through server api calls.
@@ -16,8 +18,7 @@ It’s an amazing journey so far! This application provides a great overview of 
  * First run seed.js from backend terminal, so some user data will be added to cluster(database) collection (table). 
  * Create a new account or login and then explore remaining features.
 
-<img src='bestbank.JPG' width="400">
-<img src='folderstructure.JPG' width="400">
+<img src='frontend/src/components/images/folderstructure.JPG' width="300">
 
 ## Technology used: 
 
