@@ -60,6 +60,15 @@ This application alows us to create an account, login, view balance as well as a
 #### Get all customers data as admin
 <img src='frontend/src/components/images/r_allUsers.JPG' width="800">
 
+#### Get token after signup from postman
+<img src='frontend/src/components/images/r_signupFromPostman.JPG' width="800">
+
+#### Get user data from postman
+<img src='frontend/src/components/images/r_getUser.JPG' width="800">
+
+#### Mongo DB view
+<img src='frontend/src/components/images/r_mongoDb.JPG' width="800">
+
 #### Contact details: gv68682@gmail.com
 
 ### MIT License:
