@@ -1,0 +1,47 @@
+#nav-id {
+    background-color:#007bff !important;
+}
+
+#link-id {
+    color: #FFFFFF !important;
+    font-weight: 600;
+    font-size: large;
+    
+}
+#link-id:hover {
+    color: black !important;
+    transition: color 0.7s ease-out;
+    font-weight: 600;
+    /* font-size:medium; */
+}
+
+th  {
+    background-color: #007bff;
+}
+
+tbody  {
+    color: #FFFFFF;
+    background-color: #009cff;
+}
+h3 {
+    text-align: center;
+}
+
+.navbar-brand.active#link-id{
+    background-color: white;
+    color:black !important;;
+    transition: color 0.1s ease-out;
+}
+
+.nav-link.active#link-id{
+    color:black !important;
+    background-color: white;
+  
+}
+
+#createStatus {
+    background-color: white;
+    color:red;
+    font-weight: 600;
+}
+
