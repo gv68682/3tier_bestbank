@@ -18,7 +18,7 @@ It’s an amazing journey so far! This application provides a great overview of 
  * First run seed.js from backend terminal, so some user data will be added to cluster(database) collection (table). 
  * Create a new account or login and then explore remaining features.
 
-<img src='frontend/src/components/images/folderstructure.JPG' width="300">
+<img src='frontend/src/components/images/folderStructure.JPG' width="300">
 
 ## Technology used: 
 
