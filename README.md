@@ -20,6 +20,7 @@ It’s an amazing journey so far! This application provides a great overview of 
 
 <img src='frontend/src/components/images/folderStructure.JPG' width="300">
 
+
 ## Technology used: 
 
  * NODE.JS server
@@ -46,6 +47,18 @@ It’s an amazing journey so far! This application provides a great overview of 
 ## Features: 
 
 This application alows us to create an account, login, view balance as well as all users, deposit and withdraw amount. Improvements would be transfor amount between different accounts, link accounts, admin roles, add footer.
+
+#### Login page
+<img src='frontend/src/components/images/r_login.JPG' width="800">
+
+#### After signin
+<img src='frontend/src/components/images/r_afterlogin.JPG' width="800">
+
+#### Deposit
+<img src='frontend/src/components/images/r_deposit.JPG' width="800">
+
+#### Get all customers data as admin
+<img src='frontend/src/components/images/r_allUsers.JPG' width="800">
 
 #### Contact details: gv68682@gmail.com
 
